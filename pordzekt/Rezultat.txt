@@ -1,0 +1,5 @@
+NAZIV : evro
+KUPOVNA : 117.4
+PRODAJNA : 118
+
+

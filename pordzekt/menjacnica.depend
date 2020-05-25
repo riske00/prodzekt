@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1590435958 source:c:\users\korisnik\desktop\menjacnica\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<windows.h>
+	"cvRadnika.hpp"
+	"Direktor.hpp"
+	"Kasa.hpp"
+	"Lokal.hpp"
+	"Menjacnica.hpp"
+	"Obezbedjenje.hpp"
+	"Oprema.hpp"
+	"Radnik.hpp"
+	"Reklama.hpp"
+	"Valute.hpp"
+
+1590432400 c:\users\korisnik\desktop\menjacnica\cvradnika.hpp
+
+1590225726 c:\users\korisnik\desktop\menjacnica\direktor.hpp
+	"radnik.hpp"
+
+1590228246 c:\users\korisnik\desktop\menjacnica\radnik.hpp
+	"cvRadnika.hpp"
+
+1590435089 c:\users\korisnik\desktop\menjacnica\kasa.hpp
+	"Valute.hpp"
+
+1590435119 c:\users\korisnik\desktop\menjacnica\valute.hpp
+
+1590434622 c:\users\korisnik\desktop\menjacnica\lokal.hpp
+
+1590224016 c:\users\korisnik\desktop\menjacnica\menjacnica.hpp
+	"Radnik.hpp"
+	"Direktor.hpp"
+
+1590435101 c:\users\korisnik\desktop\menjacnica\obezbedjenje.hpp
+	"Radnik.hpp"
+
+1590222224 c:\users\korisnik\desktop\menjacnica\oprema.hpp
+
+1590222224 c:\users\korisnik\desktop\menjacnica\reklama.hpp
+

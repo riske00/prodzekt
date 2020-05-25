@@ -1,0 +1,3 @@
+Doza Djerdja,10,Novi Sad,3
+Alekse Santica,34,Novi Sad,5
+Brace Jugovica,53,Beograd,17
